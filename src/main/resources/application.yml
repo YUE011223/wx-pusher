@@ -19,5 +19,5 @@ wx:
   # 接受特殊信息模板的openId
   # 需要注意在 -后面有一个空格，这里是填写special类型的订阅者的openId的地方，有几行就加几个-
   specialOpenIdList:
-    - xxx
-    - yyy
+    - o2HJg6ckRkvfPpsAj2pymE4TJhT8
+    - o2HJg6U5Zz3CYjBXh-3lg6jXlnvk
