@@ -5,7 +5,7 @@
 今天：{{today_weather.DATA}}  {{today_high.DATA}}/{{today_low.DATA}}°C
 明天：{{tomorrow_weather.DATA}}  {{tomorrow_high.DATA}}/{{tomorrow_low.DATA}}°C
 
-相识已经：{{meet_days.DATA}}天 ❤
+相爱已经：{{meet_days.DATA}}天 ❤
 
 {{daily_english_en.DATA}}
 
