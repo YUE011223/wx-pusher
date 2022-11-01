@@ -9,7 +9,7 @@ public class WxTemplateConstants {
     private WxTemplateConstants() {
     }
 
-    public static final String SPECIAL_MORNING = "	SoNndFLTLq-Yql389Tw-hK4-jicFOgH6bpiQ30WaFog";
+    public static final String SPECIAL_MORNING = "SoNndFLTLq-Yql389Tw-hK4-jicFOgH6bpiQ30WaFog";
 
     public static final String COMMON_MORNING = "";
 }
